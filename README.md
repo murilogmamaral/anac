@@ -1,7 +1,7 @@
 ##  Forecasting passenger flow at Brazilian airports
 
 ### Description
-In this project, I develop notebooks to analyse and forecast passenger arrivals data at Brazilian airports. I have chosen one in special as exemple: SBSV, from Salvador-BA.  
+In this project, I develop notebooks to analyse and forecast passenger arrivals data at Brazilian airports. I have chosen one in special as example: SBSV, from Salvador-BA.  
 <br>
 
 ### Content
