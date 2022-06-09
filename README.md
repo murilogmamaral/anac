@@ -11,7 +11,7 @@ Notebook 03 - Data Analysis
 Notebook 04 - Forecasting (_in progress_)  
 <br> 
 
-### Exemples  
+### Examples  
 ![](https://github.com/murilogmamaral/anac/blob/main/plot1.png?raw=true)  
 
 ![](https://github.com/murilogmamaral/anac/blob/main/plot2.png?raw=true)   
